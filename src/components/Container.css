@@ -1,0 +1,15 @@
+.box {
+  width: 90%;
+  max-width: 700px;
+  min-height: 70vh;
+  background-color: rgb(43, 42, 42);
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 2rem;
+  border-radius: 1rem;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.7);
+  overflow-y: auto;
+}
