@@ -14,7 +14,7 @@ ZecureKey is a secure and customizable password generator built with **React**. 
 
 ## 🖼️ Demo
 
-> [Live Demo](#) <!-- Replace # with actual link if deployed -->
+> [Live Demo](https://zecurekey.netlify.app/) <!-- Replace # with actual link if deployed -->
 
 ## 📸 Preview
 
